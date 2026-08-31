@@ -8,7 +8,7 @@
 
 
 ## My Latest Project  
-🔗 [FrED-Factory](https://github.com/carloscs04/FrED-Factory)  
+🔗 [FrED-Factory](https://github.com/carloscs04/uav-vision-pipeline-inspection)  
 This project focuses on designing an automation line to create a device that saves recyclable filament!
 
 <!---
