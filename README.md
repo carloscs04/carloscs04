@@ -9,8 +9,7 @@
 
 ## My Latest Project  
 🔗 [Dual-UAV Vision-Based Inspection of Oil Pipelines Using Line Tracking and YOLO-Based Anomaly Detection](https://github.com/carloscs04/uav-vision-pipeline-inspection)  
-This project focuses on designing an automation line to create a device that saves recyclable filament!
-
+This project focuses on developing an autonomous dual-UAV system for oil pipeline surveillance, real-time hazard identification, and coordinated target re-inspection.
 <!---
 carloscs04/CarlosCuadrasS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
